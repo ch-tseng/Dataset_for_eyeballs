@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>E0003321.jpg</filename>
+	<path>Z:\Eden_Eye_Balls\image\E0003321.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1277</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>0</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>840</xmin>
+			<ymin>666</ymin>
+			<xmax>866</xmax>
+			<ymax>692</ymax>
+		</bndbox>
+	</object>
+</annotation>
