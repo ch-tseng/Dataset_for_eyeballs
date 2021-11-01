@@ -10,9 +10,8 @@ Format: VOC xml files<br/>
 Class:  0 (eye ball)<br/><br/>
 僅有一種標記: 眼球。<br/><br/>
 訓練好的模型可搭配Dlib臉部關鍵點，使用於眼球方向（視線）的判斷，您可以將此資料集應用於各種應用上。<br/>
-<video src="https://github.com/ch-tseng/public_files/blob/main/eyeball_1.mp4?raw=true" controls="controls" width="500" height="300"></video>
-
-    
+[![Watch the video](https://i9.ytimg.com/vi/dci8cVID5Co/mq1.jpg?sqp=COyD_YsG&rs=AOn4CLAyHNxTfH1htIt3FZy_33Nn6Nporw)](https://youtu.be/dci8cVID5Co)
+<br/><br/>    
 ![image](https://github.com/ch-tseng/public_files/raw/main/e1.JPG)
 ![image](https://github.com/ch-tseng/public_files/raw/main/e2.JPG)
 ![image](https://github.com/ch-tseng/public_files/raw/main/e3.JPG)
